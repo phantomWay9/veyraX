@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PulseVerify</string>
+    <string name="start_verification">Start Verification</string>
+    <string name="stop">Stop</string>
+    <string name="verified">VERIFIED</string>
+    <string name="suspicious">SUSPICIOUS</string>
+    <string name="uncertain">UNCERTAIN</string>
+    <string name="initializing">INITIALIZING</string>
+    <string name="trust_timeline">Trust Timeline</string>
+    <string name="signal_quality">Signal Quality</string>
+    <string name="roi_consistency">ROI Consistency</string>
+    <string name="privacy_badge">🔒 100% On-Device • 0KB Cloud Transfer</string>
+</resources>
